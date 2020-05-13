@@ -4,4 +4,4 @@
 
 
 
-*having절은 group by절 다음에 위치해 group by한 결과를 대상으로 다시 필터를 걸어준다!!!**
+**having절은 group by절 다음에 위치해 group by한 결과를 대상으로 다시 필터를 걸어준다!!!**
