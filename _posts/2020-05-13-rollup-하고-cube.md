@@ -1,5 +1,4 @@
-# roll up
-
+# rollup
 자주 쓰일까? 난 잘 모르겠다.  
 group by rollup(컬럼, 컬럼, ...)  
 이런 식으로 쓴다.  
