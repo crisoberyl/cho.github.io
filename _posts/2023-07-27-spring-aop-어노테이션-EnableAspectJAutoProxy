@@ -1,0 +1,3 @@
+@EnableAspectJAutoProxy(proxyTargetClass=true)
+
+쓰면 interface가 아니고 class를 proxy의 타겟으로 설정해준다고 함..,,?
